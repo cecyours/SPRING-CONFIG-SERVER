@@ -7,9 +7,4 @@ server:
 spring:
     application:
         name: DEFAULT-SERVICE
-    data:
-        mongodb:
-            database: test
-            host: localhost
-            port: 27017
 
