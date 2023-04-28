@@ -6,10 +6,10 @@ server:
     port: 8081
 spring:
     application:
-        name: PRODUCT-SERVICE
+        name: DEFAULT-SERVICE
     data:
         mongodb:
             database: test
             host: localhost
             port: 27017
-Search Tutorials
+
